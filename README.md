@@ -1,2 +1,2 @@
 *python-100-*
- *study*
+ study
